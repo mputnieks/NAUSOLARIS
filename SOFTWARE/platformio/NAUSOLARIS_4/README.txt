@@ -1,0 +1,2 @@
+The code Nausolaris 4 is a test code for the LoRa trasnmitter. It was used to debug hardware issues during the prototyping phase.
+This folder is appropriate to open and compile using VS code Platformio extension (unlike the previous ones).
